@@ -31,3 +31,9 @@ qrc_*.cpp
 .DS_Store
 build
 
+# path corrected ignores
+*~
+
+/Makefile*
+/build
+/qrc_*.cpp
